@@ -1,0 +1,693 @@
+INFO     tests2:tests2.py:24 Initializing driver for browser: chrome
+INFO     tests2:tests2.py:43 TC_001: Adding a product to the cart
+INFO     tests2:tests2.py:44 Opening the main page
+INFO     tests2:tests2.py:46 Navigating to the 'Books' category
+INFO     tests2:tests2.py:48 Waiting for the product list to load
+INFO     tests2:tests2.py:50 Navigating to the first product page
+INFO     tests2:tests2.py:52 Waiting for the 'Add to cart' button
+INFO     tests2:tests2.py:56 Clicking the 'Add to cart' button
+INFO     tests2:tests2.py:58 Waiting for the success notification
+INFO     tests2:tests2.py:62 Notification received:   The product has been added to your shopping cart
+INFO     tests2:tests2.py:64 TC_001: Test passed
+
+INFO     tests2:tests2.py:37 Terminating driver for browser: chrome
+INFO     tests2:tests2.py:24 Initializing driver for browser: firefox
+INFO     tests2:tests2.py:43 TC_001: Adding a product to the cart
+INFO     tests2:tests2.py:44 Opening the main page
+INFO     tests2:tests2.py:46 Navigating to the 'Books' category
+INFO     tests2:tests2.py:48 Waiting for the product list to load
+INFO     tests2:tests2.py:50 Navigating to the first product page
+INFO     tests2:tests2.py:52 Waiting for the 'Add to cart' button
+INFO     tests2:tests2.py:56 Clicking the 'Add to cart' button
+INFO     tests2:tests2.py:58 Waiting for the success notification
+INFO     tests2:tests2.py:62 Notification received:   The product has been added to your shopping cart
+INFO     tests2:tests2.py:64 TC_001: Test passed
+
+INFO     tests2:tests2.py:37 Terminating driver for browser: firefox
+INFO     tests2:tests2.py:24 Initializing driver for browser: edge
+INFO     tests2:tests2.py:43 TC_001: Adding a product to the cart
+INFO     tests2:tests2.py:44 Opening the main page
+INFO     tests2:tests2.py:46 Navigating to the 'Books' category
+INFO     tests2:tests2.py:48 Waiting for the product list to load
+INFO     tests2:tests2.py:50 Navigating to the first product page
+INFO     tests2:tests2.py:52 Waiting for the 'Add to cart' button
+INFO     tests2:tests2.py:56 Clicking the 'Add to cart' button
+INFO     tests2:tests2.py:58 Waiting for the success notification
+INFO     tests2:tests2.py:62 Notification received:   The product has been added to your shopping cart
+INFO     tests2:tests2.py:64 TC_001: Test passed
+
+INFO     tests2:tests2.py:37 Terminating driver for browser: edge
+INFO     tests2:tests2.py:24 Initializing driver for browser: chrome
+INFO     tests2:tests2.py:69 TC_002: Removing a product from the cart
+INFO     tests2:tests2.py:70 Opening the main page
+INFO     tests2:tests2.py:72 Navigating to the 'Books' category
+INFO     tests2:tests2.py:74 Waiting for the product list
+INFO     tests2:tests2.py:76 Opening the first product page
+INFO     tests2:tests2.py:78 Waiting for the 'Add to cart' button
+INFO     tests2:tests2.py:80 Clicking the 'Add to cart' button
+INFO     tests2:tests2.py:82 Waiting for the success notification
+INFO     tests2:tests2.py:84 Navigating to the cart
+INFO     tests2:tests2.py:86 Selecting the product for removal
+INFO     tests2:tests2.py:88 Clicking the 'Update shopping cart' button
+INFO     tests2:tests2.py:90 Waiting for the empty cart message
+INFO     tests2:tests2.py:94 Message received: Your Shopping Cart is empty!
+INFO     tests2:tests2.py:96 TC_002: Test passed
+
+INFO     tests2:tests2.py:37 Terminating driver for browser: chrome
+INFO     tests2:tests2.py:24 Initializing driver for browser: firefox
+INFO     tests2:tests2.py:69 TC_002: Removing a product from the cart
+INFO     tests2:tests2.py:70 Opening the main page
+INFO     tests2:tests2.py:72 Navigating to the 'Books' category
+INFO     tests2:tests2.py:74 Waiting for the product list
+INFO     tests2:tests2.py:76 Opening the first product page
+INFO     tests2:tests2.py:78 Waiting for the 'Add to cart' button
+INFO     tests2:tests2.py:80 Clicking the 'Add to cart' button
+INFO     tests2:tests2.py:82 Waiting for the success notification
+INFO     tests2:tests2.py:84 Navigating to the cart
+INFO     tests2:tests2.py:86 Selecting the product for removal
+INFO     tests2:tests2.py:88 Clicking the 'Update shopping cart' button
+INFO     tests2:tests2.py:90 Waiting for the empty cart message
+INFO     tests2:tests2.py:94 Message received: Your Shopping Cart is empty!
+INFO     tests2:tests2.py:96 TC_002: Test passed
+
+INFO     tests2:tests2.py:37 Terminating driver for browser: firefox
+INFO     tests2:tests2.py:24 Initializing driver for browser: edge
+INFO     tests2:tests2.py:69 TC_002: Removing a product from the cart
+INFO     tests2:tests2.py:70 Opening the main page
+INFO     tests2:tests2.py:72 Navigating to the 'Books' category
+INFO     tests2:tests2.py:74 Waiting for the product list
+INFO     tests2:tests2.py:76 Opening the first product page
+INFO     tests2:tests2.py:78 Waiting for the 'Add to cart' button
+INFO     tests2:tests2.py:80 Clicking the 'Add to cart' button
+INFO     tests2:tests2.py:82 Waiting for the success notification
+INFO     tests2:tests2.py:84 Navigating to the cart
+INFO     tests2:tests2.py:86 Selecting the product for removal
+INFO     tests2:tests2.py:88 Clicking the 'Update shopping cart' button
+INFO     tests2:tests2.py:90 Waiting for the empty cart message
+INFO     tests2:tests2.py:94 Message received: Your Shopping Cart is empty!
+INFO     tests2:tests2.py:96 TC_002: Test passed
+
+INFO     tests2:tests2.py:37 Terminating driver for browser: edge
+INFO     tests2:tests2.py:24 Initializing driver for browser: chrome
+INFO     tests2:tests2.py:101 TC_003: Changing the product quantity in the cart
+INFO     tests2:tests2.py:102 Opening the main page
+INFO     tests2:tests2.py:104 Navigating to the 'Books' category
+INFO     tests2:tests2.py:106 Waiting for the product list
+INFO     tests2:tests2.py:108 Opening the first product page
+INFO     tests2:tests2.py:110 Waiting for the 'Add to cart' button
+INFO     tests2:tests2.py:112 Clicking the 'Add to cart' button
+INFO     tests2:tests2.py:114 Waiting for the success notification
+INFO     tests2:tests2.py:116 Navigating to the cart
+INFO     tests2:tests2.py:118 Finding the quantity field
+INFO     tests2:tests2.py:120 Clearing and entering new quantity: 3
+INFO     tests2:tests2.py:123 Clicking the 'updatecart' button
+INFO     tests2:tests2.py:125 Getting the updated quantity
+INFO     tests2:tests2.py:127 Updated quantity: 3
+INFO     tests2:tests2.py:129 TC_003: Test passed
+
+INFO     tests2:tests2.py:37 Terminating driver for browser: chrome
+INFO     tests2:tests2.py:24 Initializing driver for browser: firefox
+INFO     tests2:tests2.py:101 TC_003: Changing the product quantity in the cart
+INFO     tests2:tests2.py:102 Opening the main page
+INFO     tests2:tests2.py:104 Navigating to the 'Books' category
+INFO     tests2:tests2.py:106 Waiting for the product list
+INFO     tests2:tests2.py:108 Opening the first product page
+INFO     tests2:tests2.py:110 Waiting for the 'Add to cart' button
+INFO     tests2:tests2.py:112 Clicking the 'Add to cart' button
+INFO     tests2:tests2.py:114 Waiting for the success notification
+INFO     tests2:tests2.py:116 Navigating to the cart
+INFO     tests2:tests2.py:118 Finding the quantity field
+INFO     tests2:tests2.py:120 Clearing and entering new quantity: 3
+INFO     tests2:tests2.py:123 Clicking the 'updatecart' button
+INFO     tests2:tests2.py:125 Getting the updated quantity
+INFO     tests2:tests2.py:127 Updated quantity: 3
+INFO     tests2:tests2.py:129 TC_003: Test passed
+
+INFO     tests2:tests2.py:37 Terminating driver for browser: firefox
+INFO     tests2:tests2.py:24 Initializing driver for browser: edge
+INFO     tests2:tests2.py:101 TC_003: Changing the product quantity in the cart
+INFO     tests2:tests2.py:102 Opening the main page
+INFO     tests2:tests2.py:104 Navigating to the 'Books' category
+INFO     tests2:tests2.py:106 Waiting for the product list
+INFO     tests2:tests2.py:108 Opening the first product page
+INFO     tests2:tests2.py:110 Waiting for the 'Add to cart' button
+INFO     tests2:tests2.py:112 Clicking the 'Add to cart' button
+INFO     tests2:tests2.py:114 Waiting for the success notification
+INFO     tests2:tests2.py:116 Navigating to the cart
+INFO     tests2:tests2.py:118 Finding the quantity field
+INFO     tests2:tests2.py:120 Clearing and entering new quantity: 3
+INFO     tests2:tests2.py:123 Clicking the 'updatecart' button
+INFO     tests2:tests2.py:125 Getting the updated quantity
+INFO     tests2:tests2.py:127 Updated quantity: 3
+INFO     tests2:tests2.py:129 TC_003: Test passed
+
+INFO     tests2:tests2.py:37 Terminating driver for browser: edge
+INFO     tests2:tests2.py:24 Initializing driver for browser: chrome
+INFO     tests2:tests2.py:134 TC_004: Checking the correct display of category pages
+INFO     tests2:tests2.py:138 Checking category: Books
+INFO     tests2:tests2.py:140 Finding the link for category 'Books'
+INFO     tests2:tests2.py:145 Waiting for the page title to appear
+INFO     tests2:tests2.py:149 Found title: Books
+INFO     tests2:tests2.py:151 Checking for products on the page
+INFO     tests2:tests2.py:153 Found products: 6
+INFO     tests2:tests2.py:138 Checking category: Apparel & Shoes
+INFO     tests2:tests2.py:140 Finding the link for category 'Apparel & Shoes'
+INFO     tests2:tests2.py:145 Waiting for the page title to appear
+INFO     tests2:tests2.py:149 Found title: Apparel & Shoes
+INFO     tests2:tests2.py:151 Checking for products on the page
+INFO     tests2:tests2.py:153 Found products: 8
+INFO     tests2:tests2.py:138 Checking category: Jewelry
+INFO     tests2:tests2.py:140 Finding the link for category 'Jewelry'
+INFO     tests2:tests2.py:145 Waiting for the page title to appear
+INFO     tests2:tests2.py:149 Found title: Jewelry
+INFO     tests2:tests2.py:151 Checking for products on the page
+INFO     tests2:tests2.py:153 Found products: 5
+INFO     tests2:tests2.py:155 TC_004: Test passed
+
+INFO     tests2:tests2.py:37 Terminating driver for browser: chrome
+INFO     tests2:tests2.py:24 Initializing driver for browser: firefox
+INFO     tests2:tests2.py:134 TC_004: Checking the correct display of category pages
+INFO     tests2:tests2.py:138 Checking category: Books
+INFO     tests2:tests2.py:140 Finding the link for category 'Books'
+INFO     tests2:tests2.py:145 Waiting for the page title to appear
+INFO     tests2:tests2.py:149 Found title: Books
+INFO     tests2:tests2.py:151 Checking for products on the page
+INFO     tests2:tests2.py:153 Found products: 6
+INFO     tests2:tests2.py:138 Checking category: Apparel & Shoes
+INFO     tests2:tests2.py:140 Finding the link for category 'Apparel & Shoes'
+INFO     tests2:tests2.py:145 Waiting for the page title to appear
+INFO     tests2:tests2.py:149 Found title: Apparel & Shoes
+INFO     tests2:tests2.py:151 Checking for products on the page
+INFO     tests2:tests2.py:153 Found products: 8
+INFO     tests2:tests2.py:138 Checking category: Jewelry
+INFO     tests2:tests2.py:140 Finding the link for category 'Jewelry'
+INFO     tests2:tests2.py:145 Waiting for the page title to appear
+INFO     tests2:tests2.py:149 Found title: Jewelry
+INFO     tests2:tests2.py:151 Checking for products on the page
+INFO     tests2:tests2.py:153 Found products: 5
+INFO     tests2:tests2.py:155 TC_004: Test passed
+
+INFO     tests2:tests2.py:37 Terminating driver for browser: firefox
+INFO     tests2:tests2.py:24 Initializing driver for browser: edge
+INFO     tests2:tests2.py:134 TC_004: Checking the correct display of category pages
+INFO     tests2:tests2.py:138 Checking category: Books
+INFO     tests2:tests2.py:140 Finding the link for category 'Books'
+INFO     tests2:tests2.py:145 Waiting for the page title to appear
+INFO     tests2:tests2.py:149 Found title: Books
+INFO     tests2:tests2.py:151 Checking for products on the page
+INFO     tests2:tests2.py:153 Found products: 6
+INFO     tests2:tests2.py:138 Checking category: Apparel & Shoes
+INFO     tests2:tests2.py:140 Finding the link for category 'Apparel & Shoes'
+INFO     tests2:tests2.py:145 Waiting for the page title to appear
+INFO     tests2:tests2.py:149 Found title: Apparel & Shoes
+INFO     tests2:tests2.py:151 Checking for products on the page
+INFO     tests2:tests2.py:153 Found products: 8
+INFO     tests2:tests2.py:138 Checking category: Jewelry
+INFO     tests2:tests2.py:140 Finding the link for category 'Jewelry'
+INFO     tests2:tests2.py:145 Waiting for the page title to appear
+INFO     tests2:tests2.py:149 Found title: Jewelry
+INFO     tests2:tests2.py:151 Checking for products on the page
+INFO     tests2:tests2.py:153 Found products: 5
+INFO     tests2:tests2.py:155 TC_004: Test passed
+
+INFO     tests2:tests2.py:37 Terminating driver for browser: edge
+INFO     tests2:tests2.py:24 Initializing driver for browser: chrome
+INFO     tests2:tests2.py:160 TC_005: Placing an order (Guest Checkout)
+INFO     tests2:tests2.py:162 Navigating to the 'Books' category
+INFO     tests2:tests2.py:164 Waiting for the product list
+INFO     tests2:tests2.py:166 Opening the first product page
+INFO     tests2:tests2.py:168 Waiting for the 'Add to cart' button
+INFO     tests2:tests2.py:170 Clicking the 'Add to cart' button
+INFO     tests2:tests2.py:172 Waiting for the success notification
+INFO     tests2:tests2.py:174 Navigating to the cart
+INFO     tests2:tests2.py:176 Checking the 'I agree with the terms of service' checkbox
+INFO     tests2:tests2.py:178 Clicking the 'Checkout' button
+INFO     tests2:tests2.py:180 Checking for the Guest Checkout button
+INFO     tests2:tests2.py:185 Guest Checkout button found. Clicking.
+INFO     tests2:tests2.py:189 Filling out the Billing Address form
+INFO     tests2:tests2.py:200 Filling out field BillingNewAddress_FirstName with value 'Test'
+INFO     tests2:tests2.py:200 Filling out field BillingNewAddress_LastName with value 'User'
+INFO     tests2:tests2.py:200 Filling out field BillingNewAddress_Email with value 'testuser@example.com'
+INFO     tests2:tests2.py:200 Filling out field BillingNewAddress_City with value 'New York'
+INFO     tests2:tests2.py:200 Filling out field BillingNewAddress_Address1 with value '123 Test Street'
+INFO     tests2:tests2.py:200 Filling out field BillingNewAddress_ZipPostalCode with value '10001'
+INFO     tests2:tests2.py:200 Filling out field BillingNewAddress_PhoneNumber with value '1234567890'
+INFO     tests2:tests2.py:204 Selecting country 'United States'
+INFO     tests2:tests2.py:206 Clicking the 'New Address Next Step' button
+INFO     tests2:tests2.py:208 Selecting shipping method: checking 'PickUpInStore'
+INFO     tests2:tests2.py:214 Clicking the button to confirm the shipping method
+INFO     tests2:tests2.py:219 Selecting payment method
+INFO     tests2:tests2.py:223 Entering payment information
+INFO     tests2:tests2.py:227 Confirming the order
+INFO     tests2:tests2.py:231 Waiting for the order confirmation message
+INFO     tests2:tests2.py:235 Message received: Your order has been successfully processed!
+Order number: 1897035
+Click here for order details.
+INFO     tests2:tests2.py:237 TC_005: Test passed
+
+INFO     tests2:tests2.py:37 Terminating driver for browser: chrome
+INFO     tests2:tests2.py:24 Initializing driver for browser: firefox
+INFO     tests2:tests2.py:160 TC_005: Placing an order (Guest Checkout)
+INFO     tests2:tests2.py:162 Navigating to the 'Books' category
+INFO     tests2:tests2.py:164 Waiting for the product list
+INFO     tests2:tests2.py:166 Opening the first product page
+INFO     tests2:tests2.py:168 Waiting for the 'Add to cart' button
+INFO     tests2:tests2.py:170 Clicking the 'Add to cart' button
+INFO     tests2:tests2.py:172 Waiting for the success notification
+INFO     tests2:tests2.py:174 Navigating to the cart
+INFO     tests2:tests2.py:176 Checking the 'I agree with the terms of service' checkbox
+INFO     tests2:tests2.py:178 Clicking the 'Checkout' button
+INFO     tests2:tests2.py:180 Checking for the Guest Checkout button
+INFO     tests2:tests2.py:185 Guest Checkout button found. Clicking.
+INFO     tests2:tests2.py:189 Filling out the Billing Address form
+INFO     tests2:tests2.py:200 Filling out field BillingNewAddress_FirstName with value 'Test'
+INFO     tests2:tests2.py:200 Filling out field BillingNewAddress_LastName with value 'User'
+INFO     tests2:tests2.py:200 Filling out field BillingNewAddress_Email with value 'testuser@example.com'
+INFO     tests2:tests2.py:200 Filling out field BillingNewAddress_City with value 'New York'
+INFO     tests2:tests2.py:200 Filling out field BillingNewAddress_Address1 with value '123 Test Street'
+INFO     tests2:tests2.py:200 Filling out field BillingNewAddress_ZipPostalCode with value '10001'
+INFO     tests2:tests2.py:200 Filling out field BillingNewAddress_PhoneNumber with value '1234567890'
+INFO     tests2:tests2.py:204 Selecting country 'United States'
+INFO     tests2:tests2.py:206 Clicking the 'New Address Next Step' button
+INFO     tests2:tests2.py:208 Selecting shipping method: checking 'PickUpInStore'
+INFO     tests2:tests2.py:214 Clicking the button to confirm the shipping method
+INFO     tests2:tests2.py:219 Selecting payment method
+INFO     tests2:tests2.py:223 Entering payment information
+INFO     tests2:tests2.py:227 Confirming the order
+INFO     tests2:tests2.py:231 Waiting for the order confirmation message
+INFO     tests2:tests2.py:235 Message received: Your order has been successfully processed!
+Order number: 1897036
+Click here for order details.
+INFO     tests2:tests2.py:237 TC_005: Test passed
+
+INFO     tests2:tests2.py:37 Terminating driver for browser: firefox
+INFO     tests2:tests2.py:24 Initializing driver for browser: edge
+INFO     tests2:tests2.py:160 TC_005: Placing an order (Guest Checkout)
+INFO     tests2:tests2.py:162 Navigating to the 'Books' category
+INFO     tests2:tests2.py:164 Waiting for the product list
+INFO     tests2:tests2.py:166 Opening the first product page
+INFO     tests2:tests2.py:168 Waiting for the 'Add to cart' button
+INFO     tests2:tests2.py:170 Clicking the 'Add to cart' button
+INFO     tests2:tests2.py:172 Waiting for the success notification
+INFO     tests2:tests2.py:174 Navigating to the cart
+INFO     tests2:tests2.py:176 Checking the 'I agree with the terms of service' checkbox
+INFO     tests2:tests2.py:178 Clicking the 'Checkout' button
+INFO     tests2:tests2.py:180 Checking for the Guest Checkout button
+INFO     tests2:tests2.py:185 Guest Checkout button found. Clicking.
+INFO     tests2:tests2.py:189 Filling out the Billing Address form
+INFO     tests2:tests2.py:200 Filling out field BillingNewAddress_FirstName with value 'Test'
+INFO     tests2:tests2.py:200 Filling out field BillingNewAddress_LastName with value 'User'
+INFO     tests2:tests2.py:200 Filling out field BillingNewAddress_Email with value 'testuser@example.com'
+INFO     tests2:tests2.py:200 Filling out field BillingNewAddress_City with value 'New York'
+INFO     tests2:tests2.py:200 Filling out field BillingNewAddress_Address1 with value '123 Test Street'
+INFO     tests2:tests2.py:200 Filling out field BillingNewAddress_ZipPostalCode with value '10001'
+INFO     tests2:tests2.py:200 Filling out field BillingNewAddress_PhoneNumber with value '1234567890'
+INFO     tests2:tests2.py:204 Selecting country 'United States'
+INFO     tests2:tests2.py:206 Clicking the 'New Address Next Step' button
+INFO     tests2:tests2.py:208 Selecting shipping method: checking 'PickUpInStore'
+INFO     tests2:tests2.py:214 Clicking the button to confirm the shipping method
+INFO     tests2:tests2.py:219 Selecting payment method
+INFO     tests2:tests2.py:223 Entering payment information
+INFO     tests2:tests2.py:227 Confirming the order
+INFO     tests2:tests2.py:231 Waiting for the order confirmation message
+INFO     tests2:tests2.py:235 Message received: Your order has been successfully processed!
+Order number: 1897037
+Click here for order details.
+INFO     tests2:tests2.py:237 TC_005: Test passed
+
+INFO     tests2:tests2.py:37 Terminating driver for browser: edge
+INFO     tests2:tests2.py:24 Initializing driver for browser: chrome
+INFO     tests2:tests2.py:242 TC_006: Sorting products by price
+INFO     tests2:tests2.py:244 Navigating to the 'Computers' category
+INFO     tests2:tests2.py:248 Navigating to the 'Desktops' tab
+INFO     tests2:tests2.py:253 Waiting for the sort dropdown to appear
+INFO     tests2:tests2.py:258 Selecting sort: 'Price: Low to High'
+INFO     tests2:tests2.py:260 Waiting for the page to update
+INFO     tests2:tests2.py:262 Getting product prices for the Desktops tab
+INFO     tests2:tests2.py:270 Found price: 500.0
+INFO     tests2:tests2.py:270 Found price: 800.0
+INFO     tests2:tests2.py:270 Found price: 800.0
+INFO     tests2:tests2.py:270 Found price: 1200.0
+INFO     tests2:tests2.py:270 Found price: 1350.0
+INFO     tests2:tests2.py:270 Found price: 1800.0
+INFO     tests2:tests2.py:273 Checking that prices are sorted in ascending order for the Desktops tab
+INFO     tests2:tests2.py:248 Navigating to the 'Notebooks' tab
+INFO     tests2:tests2.py:253 Waiting for the sort dropdown to appear
+INFO     tests2:tests2.py:258 Selecting sort: 'Price: Low to High'
+INFO     tests2:tests2.py:260 Waiting for the page to update
+INFO     tests2:tests2.py:262 Getting product prices for the Notebooks tab
+INFO     tests2:tests2.py:270 Found price: 1590.0
+INFO     tests2:tests2.py:273 Checking that prices are sorted in ascending order for the Notebooks tab
+INFO     tests2:tests2.py:248 Navigating to the 'Accessories' tab
+INFO     tests2:tests2.py:253 Waiting for the sort dropdown to appear
+INFO     tests2:tests2.py:258 Selecting sort: 'Price: Low to High'
+INFO     tests2:tests2.py:260 Waiting for the page to update
+INFO     tests2:tests2.py:262 Getting product prices for the Accessories tab
+INFO     tests2:tests2.py:270 Found price: 400.0
+INFO     tests2:tests2.py:270 Found price: 400.0
+INFO     tests2:tests2.py:270 Found price: 1000.0
+INFO     tests2:tests2.py:270 Found price: 1700.0
+INFO     tests2:tests2.py:270 Found price: 1700.0
+INFO     tests2:tests2.py:270 Found price: 3000.0
+INFO     tests2:tests2.py:270 Found price: 9000.0
+INFO     tests2:tests2.py:273 Checking that prices are sorted in ascending order for the Accessories tab
+INFO     tests2:tests2.py:275 TC_006: Test passed
+
+INFO     tests2:tests2.py:37 Terminating driver for browser: chrome
+INFO     tests2:tests2.py:24 Initializing driver for browser: firefox
+INFO     tests2:tests2.py:242 TC_006: Sorting products by price
+INFO     tests2:tests2.py:244 Navigating to the 'Computers' category
+INFO     tests2:tests2.py:248 Navigating to the 'Desktops' tab
+INFO     tests2:tests2.py:253 Waiting for the sort dropdown to appear
+INFO     tests2:tests2.py:258 Selecting sort: 'Price: Low to High'
+INFO     tests2:tests2.py:260 Waiting for the page to update
+INFO     tests2:tests2.py:262 Getting product prices for the Desktops tab
+INFO     tests2:tests2.py:270 Found price: 500.0
+INFO     tests2:tests2.py:270 Found price: 800.0
+INFO     tests2:tests2.py:270 Found price: 800.0
+INFO     tests2:tests2.py:270 Found price: 1200.0
+INFO     tests2:tests2.py:270 Found price: 1350.0
+INFO     tests2:tests2.py:270 Found price: 1800.0
+INFO     tests2:tests2.py:273 Checking that prices are sorted in ascending order for the Desktops tab
+INFO     tests2:tests2.py:248 Navigating to the 'Notebooks' tab
+INFO     tests2:tests2.py:253 Waiting for the sort dropdown to appear
+INFO     tests2:tests2.py:258 Selecting sort: 'Price: Low to High'
+INFO     tests2:tests2.py:260 Waiting for the page to update
+INFO     tests2:tests2.py:262 Getting product prices for the Notebooks tab
+INFO     tests2:tests2.py:270 Found price: 1590.0
+INFO     tests2:tests2.py:273 Checking that prices are sorted in ascending order for the Notebooks tab
+INFO     tests2:tests2.py:248 Navigating to the 'Accessories' tab
+INFO     tests2:tests2.py:253 Waiting for the sort dropdown to appear
+INFO     tests2:tests2.py:258 Selecting sort: 'Price: Low to High'
+INFO     tests2:tests2.py:260 Waiting for the page to update
+INFO     tests2:tests2.py:262 Getting product prices for the Accessories tab
+INFO     tests2:tests2.py:270 Found price: 400.0
+INFO     tests2:tests2.py:270 Found price: 400.0
+INFO     tests2:tests2.py:270 Found price: 1000.0
+INFO     tests2:tests2.py:270 Found price: 1700.0
+INFO     tests2:tests2.py:270 Found price: 1700.0
+INFO     tests2:tests2.py:270 Found price: 3000.0
+INFO     tests2:tests2.py:270 Found price: 9000.0
+INFO     tests2:tests2.py:273 Checking that prices are sorted in ascending order for the Accessories tab
+INFO     tests2:tests2.py:275 TC_006: Test passed
+
+INFO     tests2:tests2.py:37 Terminating driver for browser: firefox
+INFO     tests2:tests2.py:24 Initializing driver for browser: edge
+INFO     tests2:tests2.py:242 TC_006: Sorting products by price
+INFO     tests2:tests2.py:244 Navigating to the 'Computers' category
+INFO     tests2:tests2.py:248 Navigating to the 'Desktops' tab
+INFO     tests2:tests2.py:253 Waiting for the sort dropdown to appear
+INFO     tests2:tests2.py:258 Selecting sort: 'Price: Low to High'
+INFO     tests2:tests2.py:260 Waiting for the page to update
+INFO     tests2:tests2.py:262 Getting product prices for the Desktops tab
+INFO     tests2:tests2.py:270 Found price: 500.0
+INFO     tests2:tests2.py:270 Found price: 800.0
+INFO     tests2:tests2.py:270 Found price: 800.0
+INFO     tests2:tests2.py:270 Found price: 1200.0
+INFO     tests2:tests2.py:270 Found price: 1350.0
+INFO     tests2:tests2.py:270 Found price: 1800.0
+INFO     tests2:tests2.py:273 Checking that prices are sorted in ascending order for the Desktops tab
+INFO     tests2:tests2.py:248 Navigating to the 'Notebooks' tab
+INFO     tests2:tests2.py:253 Waiting for the sort dropdown to appear
+INFO     tests2:tests2.py:258 Selecting sort: 'Price: Low to High'
+INFO     tests2:tests2.py:260 Waiting for the page to update
+INFO     tests2:tests2.py:262 Getting product prices for the Notebooks tab
+INFO     tests2:tests2.py:270 Found price: 1590.0
+INFO     tests2:tests2.py:273 Checking that prices are sorted in ascending order for the Notebooks tab
+INFO     tests2:tests2.py:248 Navigating to the 'Accessories' tab
+INFO     tests2:tests2.py:253 Waiting for the sort dropdown to appear
+INFO     tests2:tests2.py:258 Selecting sort: 'Price: Low to High'
+INFO     tests2:tests2.py:260 Waiting for the page to update
+INFO     tests2:tests2.py:262 Getting product prices for the Accessories tab
+INFO     tests2:tests2.py:270 Found price: 400.0
+INFO     tests2:tests2.py:270 Found price: 400.0
+INFO     tests2:tests2.py:270 Found price: 1000.0
+INFO     tests2:tests2.py:270 Found price: 1700.0
+INFO     tests2:tests2.py:270 Found price: 1700.0
+INFO     tests2:tests2.py:270 Found price: 3000.0
+INFO     tests2:tests2.py:270 Found price: 9000.0
+INFO     tests2:tests2.py:273 Checking that prices are sorted in ascending order for the Accessories tab
+INFO     tests2:tests2.py:275 TC_006: Test passed
+
+INFO     tests2:tests2.py:37 Terminating driver for browser: edge
+INFO     tests2:tests2.py:24 Initializing driver for browser: chrome
+INFO     tests2:tests2.py:280 TC_007: Adding a product review
+INFO     tests2:tests2.py:282 Logging in
+INFO     tests2:tests2.py:287 Filling out the login form
+INFO     tests2:tests2.py:296 Login successful
+INFO     tests2:tests2.py:298 Navigating to the 'Books' category
+INFO     tests2:tests2.py:300 Waiting for the product list
+INFO     tests2:tests2.py:304 Opening the first product page
+INFO     tests2:tests2.py:306 Scrolling down to display the 'Add your review' link
+INFO     tests2:tests2.py:308 Checking for the 'Add your review' link
+INFO     tests2:tests2.py:313 Filling out the review form
+INFO     tests2:tests2.py:318 Selecting a 5-star rating
+INFO     tests2:tests2.py:320 Clicking the 'Submit Review' button
+INFO     tests2:tests2.py:322 Waiting for the success notification
+INFO     tests2:tests2.py:326 Notification received: Product review is successfully added.
+INFO     tests2:tests2.py:328 TC_007: Test passed
+
+INFO     tests2:tests2.py:37 Terminating driver for browser: chrome
+INFO     tests2:tests2.py:24 Initializing driver for browser: firefox
+INFO     tests2:tests2.py:280 TC_007: Adding a product review
+INFO     tests2:tests2.py:282 Logging in
+INFO     tests2:tests2.py:287 Filling out the login form
+INFO     tests2:tests2.py:296 Login successful
+INFO     tests2:tests2.py:298 Navigating to the 'Books' category
+INFO     tests2:tests2.py:300 Waiting for the product list
+INFO     tests2:tests2.py:304 Opening the first product page
+INFO     tests2:tests2.py:306 Scrolling down to display the 'Add your review' link
+INFO     tests2:tests2.py:308 Checking for the 'Add your review' link
+INFO     tests2:tests2.py:313 Filling out the review form
+INFO     tests2:tests2.py:318 Selecting a 5-star rating
+INFO     tests2:tests2.py:320 Clicking the 'Submit Review' button
+INFO     tests2:tests2.py:322 Waiting for the success notification
+INFO     tests2:tests2.py:326 Notification received: Product review is successfully added.
+INFO     tests2:tests2.py:328 TC_007: Test passed
+
+INFO     tests2:tests2.py:37 Terminating driver for browser: firefox
+INFO     tests2:tests2.py:24 Initializing driver for browser: edge
+INFO     tests2:tests2.py:280 TC_007: Adding a product review
+INFO     tests2:tests2.py:282 Logging in
+INFO     tests2:tests2.py:287 Filling out the login form
+INFO     tests2:tests2.py:296 Login successful
+INFO     tests2:tests2.py:298 Navigating to the 'Books' category
+INFO     tests2:tests2.py:300 Waiting for the product list
+INFO     tests2:tests2.py:304 Opening the first product page
+INFO     tests2:tests2.py:306 Scrolling down to display the 'Add your review' link
+INFO     tests2:tests2.py:308 Checking for the 'Add your review' link
+INFO     tests2:tests2.py:313 Filling out the review form
+INFO     tests2:tests2.py:318 Selecting a 5-star rating
+INFO     tests2:tests2.py:320 Clicking the 'Submit Review' button
+INFO     tests2:tests2.py:322 Waiting for the success notification
+INFO     tests2:tests2.py:326 Notification received: Product review is successfully added.
+INFO     tests2:tests2.py:328 TC_007: Test passed
+
+INFO     tests2:tests2.py:37 Terminating driver for browser: edge
+INFO     tests2:tests2.py:24 Initializing driver for browser: chrome
+INFO     tests2:tests2.py:333 TC_008: Boundary testing of the product quantity field
+INFO     tests2:tests2.py:335 Logging in
+INFO     tests2:tests2.py:340 Filling out the login form
+INFO     tests2:tests2.py:349 Login successful
+INFO     tests2:tests2.py:350 Adding a product to the cart
+INFO     tests2:tests2.py:361 
+Testing boundary value: 0
+INFO     tests2:tests2.py:365 Clicking the 'updatecart' button
+INFO     tests2:tests2.py:371 Cart is empty for value 0. Re-adding the product.
+INFO     tests2:tests2.py:361 
+Testing boundary value: -1
+INFO     tests2:tests2.py:365 Clicking the 'updatecart' button
+INFO     tests2:tests2.py:371 Cart is empty for value -1. Re-adding the product.
+INFO     tests2:tests2.py:361 
+Testing boundary value: 100000000
+INFO     tests2:tests2.py:365 Clicking the 'updatecart' button
+INFO     tests2:tests2.py:386 Validation errors found for value 100000000
+INFO     tests2:tests2.py:392 TC_008: Test passed
+
+INFO     tests2:tests2.py:37 Terminating driver for browser: chrome
+INFO     tests2:tests2.py:24 Initializing driver for browser: firefox
+INFO     tests2:tests2.py:333 TC_008: Boundary testing of the product quantity field
+INFO     tests2:tests2.py:335 Logging in
+INFO     tests2:tests2.py:340 Filling out the login form
+INFO     tests2:tests2.py:349 Login successful
+INFO     tests2:tests2.py:350 Adding a product to the cart
+INFO     tests2:tests2.py:361 
+Testing boundary value: 0
+INFO     tests2:tests2.py:365 Clicking the 'updatecart' button
+INFO     tests2:tests2.py:371 Cart is empty for value 0. Re-adding the product.
+INFO     tests2:tests2.py:361 
+Testing boundary value: -1
+INFO     tests2:tests2.py:365 Clicking the 'updatecart' button
+INFO     tests2:tests2.py:371 Cart is empty for value -1. Re-adding the product.
+INFO     tests2:tests2.py:361 
+Testing boundary value: 100000000
+INFO     tests2:tests2.py:365 Clicking the 'updatecart' button
+INFO     tests2:tests2.py:386 Validation errors found for value 100000000
+INFO     tests2:tests2.py:392 TC_008: Test passed
+
+INFO     tests2:tests2.py:37 Terminating driver for browser: firefox
+INFO     tests2:tests2.py:24 Initializing driver for browser: edge
+INFO     tests2:tests2.py:333 TC_008: Boundary testing of the product quantity field
+INFO     tests2:tests2.py:335 Logging in
+INFO     tests2:tests2.py:340 Filling out the login form
+INFO     tests2:tests2.py:349 Login successful
+INFO     tests2:tests2.py:350 Adding a product to the cart
+INFO     tests2:tests2.py:361 
+Testing boundary value: 0
+INFO     tests2:tests2.py:365 Clicking the 'updatecart' button
+INFO     tests2:tests2.py:371 Cart is empty for value 0. Re-adding the product.
+INFO     tests2:tests2.py:361 
+Testing boundary value: -1
+INFO     tests2:tests2.py:365 Clicking the 'updatecart' button
+INFO     tests2:tests2.py:371 Cart is empty for value -1. Re-adding the product.
+INFO     tests2:tests2.py:361 
+Testing boundary value: 100000000
+INFO     tests2:tests2.py:365 Clicking the 'updatecart' button
+INFO     tests2:tests2.py:386 Validation errors found for value 100000000
+INFO     tests2:tests2.py:392 TC_008: Test passed
+
+INFO     tests2:tests2.py:37 Terminating driver for browser: edge
+INFO     tests2:tests2.py:24 Initializing driver for browser: chrome
+INFO     tests2:tests2.py:397 TC_009: Testing the performance of the checkout page
+INFO     tests2:tests2.py:399 Navigating to the 'Books' category
+INFO     tests2:tests2.py:401 Waiting for the product list
+INFO     tests2:tests2.py:403 Opening the first product page
+INFO     tests2:tests2.py:405 Clicking the 'Add to cart' button
+INFO     tests2:tests2.py:408 Waiting for the success notification
+INFO     tests2:tests2.py:410 Navigating to the cart
+INFO     tests2:tests2.py:412 Measuring the load time of the checkout page
+INFO     tests2:tests2.py:414 Checking the 'I agree with the terms of service' checkbox
+INFO     tests2:tests2.py:417 Checking for the Guest Checkout button
+INFO     tests2:tests2.py:422 Guest Checkout button found. Clicking.
+INFO     tests2:tests2.py:428 Checkout page load time: 2.66 seconds
+INFO     tests2:tests2.py:430 TC_009: Test passed
+
+INFO     tests2:tests2.py:37 Terminating driver for browser: chrome
+INFO     tests2:tests2.py:24 Initializing driver for browser: firefox
+INFO     tests2:tests2.py:397 TC_009: Testing the performance of the checkout page
+INFO     tests2:tests2.py:399 Navigating to the 'Books' category
+INFO     tests2:tests2.py:401 Waiting for the product list
+INFO     tests2:tests2.py:403 Opening the first product page
+INFO     tests2:tests2.py:405 Clicking the 'Add to cart' button
+INFO     tests2:tests2.py:408 Waiting for the success notification
+INFO     tests2:tests2.py:410 Navigating to the cart
+INFO     tests2:tests2.py:412 Measuring the load time of the checkout page
+INFO     tests2:tests2.py:414 Checking the 'I agree with the terms of service' checkbox
+INFO     tests2:tests2.py:417 Checking for the Guest Checkout button
+INFO     tests2:tests2.py:422 Guest Checkout button found. Clicking.
+INFO     tests2:tests2.py:428 Checkout page load time: 2.62 seconds
+INFO     tests2:tests2.py:430 TC_009: Test passed
+
+INFO     tests2:tests2.py:37 Terminating driver for browser: firefox
+INFO     tests2:tests2.py:24 Initializing driver for browser: edge
+INFO     tests2:tests2.py:397 TC_009: Testing the performance of the checkout page
+INFO     tests2:tests2.py:399 Navigating to the 'Books' category
+INFO     tests2:tests2.py:401 Waiting for the product list
+INFO     tests2:tests2.py:403 Opening the first product page
+INFO     tests2:tests2.py:405 Clicking the 'Add to cart' button
+INFO     tests2:tests2.py:408 Waiting for the success notification
+INFO     tests2:tests2.py:410 Navigating to the cart
+INFO     tests2:tests2.py:412 Measuring the load time of the checkout page
+INFO     tests2:tests2.py:414 Checking the 'I agree with the terms of service' checkbox
+INFO     tests2:tests2.py:417 Checking for the Guest Checkout button
+INFO     tests2:tests2.py:422 Guest Checkout button found. Clicking.
+INFO     tests2:tests2.py:428 Checkout page load time: 2.71 seconds
+INFO     tests2:tests2.py:430 TC_009: Test passed
+
+INFO     tests2:tests2.py:37 Terminating driver for browser: edge
+INFO     tests2:tests2.py:24 Initializing driver for browser: chrome
+INFO     tests2:tests2.py:435 TC_010: Regression testing of the checkout process
+INFO     tests2:tests2.py:437 Navigating to the 'Books' category
+INFO     tests2:tests2.py:439 Waiting for the product list
+INFO     tests2:tests2.py:441 Opening the first product page
+INFO     tests2:tests2.py:443 Clicking the 'Add to cart' button
+INFO     tests2:tests2.py:446 Waiting for the success notification
+INFO     tests2:tests2.py:448 Navigating to the cart
+INFO     tests2:tests2.py:452 Checking for the Guest Checkout button
+INFO     tests2:tests2.py:457 Guest Checkout button found. Clicking.
+INFO     tests2:tests2.py:461 Filling out the Billing Address form
+INFO     tests2:tests2.py:472 Filling out field BillingNewAddress_FirstName with value 'Regression'
+INFO     tests2:tests2.py:472 Filling out field BillingNewAddress_LastName with value 'Tester'
+INFO     tests2:tests2.py:472 Filling out field BillingNewAddress_Email with value 'regression@example.com'
+INFO     tests2:tests2.py:472 Filling out field BillingNewAddress_City with value 'Los Angeles'
+INFO     tests2:tests2.py:472 Filling out field BillingNewAddress_Address1 with value '456 Regression Ave'
+INFO     tests2:tests2.py:472 Filling out field BillingNewAddress_ZipPostalCode with value '90001'
+INFO     tests2:tests2.py:472 Filling out field BillingNewAddress_PhoneNumber with value '0987654321'
+INFO     tests2:tests2.py:476 Selecting country 'United States'
+INFO     tests2:tests2.py:478 Clicking the 'New Address Next Step' button
+INFO     tests2:tests2.py:480 Selecting shipping method: checking 'PickUpInStore'
+INFO     tests2:tests2.py:486 Clicking the button to confirm the shipping method
+INFO     tests2:tests2.py:491 Selecting payment method
+INFO     tests2:tests2.py:495 Entering payment information
+INFO     tests2:tests2.py:499 Confirming the order
+INFO     tests2:tests2.py:503 Waiting for the order confirmation message
+INFO     tests2:tests2.py:507 Message received: Your order has been successfully processed!
+Order number: 1897039
+Click here for order details.
+INFO     tests2:tests2.py:509 TC_010: Test passed
+
+INFO     tests2:tests2.py:37 Terminating driver for browser: chrome
+INFO     tests2:tests2.py:24 Initializing driver for browser: firefox
+INFO     tests2:tests2.py:435 TC_010: Regression testing of the checkout process
+INFO     tests2:tests2.py:437 Navigating to the 'Books' category
+INFO     tests2:tests2.py:439 Waiting for the product list
+INFO     tests2:tests2.py:441 Opening the first product page
+INFO     tests2:tests2.py:443 Clicking the 'Add to cart' button
+INFO     tests2:tests2.py:446 Waiting for the success notification
+INFO     tests2:tests2.py:448 Navigating to the cart
+INFO     tests2:tests2.py:452 Checking for the Guest Checkout button
+INFO     tests2:tests2.py:457 Guest Checkout button found. Clicking.
+INFO     tests2:tests2.py:461 Filling out the Billing Address form
+INFO     tests2:tests2.py:472 Filling out field BillingNewAddress_FirstName with value 'Regression'
+INFO     tests2:tests2.py:472 Filling out field BillingNewAddress_LastName with value 'Tester'
+INFO     tests2:tests2.py:472 Filling out field BillingNewAddress_Email with value 'regression@example.com'
+INFO     tests2:tests2.py:472 Filling out field BillingNewAddress_City with value 'Los Angeles'
+INFO     tests2:tests2.py:472 Filling out field BillingNewAddress_Address1 with value '456 Regression Ave'
+INFO     tests2:tests2.py:472 Filling out field BillingNewAddress_ZipPostalCode with value '90001'
+INFO     tests2:tests2.py:472 Filling out field BillingNewAddress_PhoneNumber with value '0987654321'
+INFO     tests2:tests2.py:476 Selecting country 'United States'
+INFO     tests2:tests2.py:478 Clicking the 'New Address Next Step' button
+INFO     tests2:tests2.py:480 Selecting shipping method: checking 'PickUpInStore'
+INFO     tests2:tests2.py:486 Clicking the button to confirm the shipping method
+INFO     tests2:tests2.py:491 Selecting payment method
+INFO     tests2:tests2.py:495 Entering payment information
+INFO     tests2:tests2.py:499 Confirming the order
+INFO     tests2:tests2.py:503 Waiting for the order confirmation message
+INFO     tests2:tests2.py:507 Message received: Your order has been successfully processed!
+Order number: 1897040
+Click here for order details.
+INFO     tests2:tests2.py:509 TC_010: Test passed
+
+INFO     tests2:tests2.py:37 Terminating driver for browser: firefox
+INFO     tests2:tests2.py:24 Initializing driver for browser: edge
+INFO     tests2:tests2.py:435 TC_010: Regression testing of the checkout process
+INFO     tests2:tests2.py:437 Navigating to the 'Books' category
+INFO     tests2:tests2.py:439 Waiting for the product list
+INFO     tests2:tests2.py:441 Opening the first product page
+INFO     tests2:tests2.py:443 Clicking the 'Add to cart' button
+INFO     tests2:tests2.py:446 Waiting for the success notification
+INFO     tests2:tests2.py:448 Navigating to the cart
+INFO     tests2:tests2.py:452 Checking for the Guest Checkout button
+INFO     tests2:tests2.py:457 Guest Checkout button found. Clicking.
+INFO     tests2:tests2.py:461 Filling out the Billing Address form
+INFO     tests2:tests2.py:472 Filling out field BillingNewAddress_FirstName with value 'Regression'
+INFO     tests2:tests2.py:472 Filling out field BillingNewAddress_LastName with value 'Tester'
+INFO     tests2:tests2.py:472 Filling out field BillingNewAddress_Email with value 'regression@example.com'
+INFO     tests2:tests2.py:472 Filling out field BillingNewAddress_City with value 'Los Angeles'
+INFO     tests2:tests2.py:472 Filling out field BillingNewAddress_Address1 with value '456 Regression Ave'
+INFO     tests2:tests2.py:472 Filling out field BillingNewAddress_ZipPostalCode with value '90001'
+INFO     tests2:tests2.py:472 Filling out field BillingNewAddress_PhoneNumber with value '0987654321'
+INFO     tests2:tests2.py:476 Selecting country 'United States'
+INFO     tests2:tests2.py:478 Clicking the 'New Address Next Step' button
+INFO     tests2:tests2.py:480 Selecting shipping method: checking 'PickUpInStore'
+INFO     tests2:tests2.py:486 Clicking the button to confirm the shipping method
+INFO     tests2:tests2.py:491 Selecting payment method
+INFO     tests2:tests2.py:495 Entering payment information
+INFO     tests2:tests2.py:499 Confirming the order
+INFO     tests2:tests2.py:503 Waiting for the order confirmation message
+INFO     tests2:tests2.py:507 Message received: Your order has been successfully processed!
+Order number: 1897042
+Click here for order details.
+INFO     tests2:tests2.py:509 TC_010: Test passed
+
+INFO     tests2:tests2.py:37 Terminating driver for browser: edge
