@@ -6,7 +6,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait, Select
 from selenium.webdriver.support import expected_conditions as EC
 
-# Logging setup: all INFO and above messages will be recorded in the test_log.log file
+# Logging setup
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s %(levelname)s: %(message)s',
@@ -17,7 +17,7 @@ logger = logging.getLogger(__name__)
 
 BASE_URL = "https://demowebshop.tricentis.com/"
 
-# Fixture for initializing WebDriver for browsers: Chrome, Firefox, Edge
+# initializing WebDriver for browsers: Chrome, Firefox, Edge
 @pytest.fixture(params=["chrome", "firefox", "edge"])
 def driver(request):
     browser = request.param
